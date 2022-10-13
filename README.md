@@ -8,8 +8,6 @@ I'm Raquel Ferreira, Front-End Programmer, I currently develop with the followin
 <img src="https://camo.githubusercontent.com/2fc774b6f44efd9ac27316c539e0e94f8e524f872dc5b1c3ef60266a598331bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3035313232413f7374796c653d666c6174266c6f676f3d676974" alt=log-git/>
 <br>
 
-[![Raquel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelferreira1)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelferreira1)](https://github.com/anuraghazra/github-readme-stats)
 <br><br>
 <b>Connect with me:
