@@ -16,11 +16,11 @@
 <img width=77px src= "https://camo.githubusercontent.com/dfc69d704694f22168bea3d84584663777fa5301dcad5bbcb5459b336da8d554/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3433383533443f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465" alt=logo-node>
 <br><br>
 
-<b> Conecte-se comigo: 
+<b> Conecte-se comigo: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">
 <br>
 <a href="https://www.linkedin.com/in/raquel-ferreiraa/"><img width=33px  src="https://camo.githubusercontent.com/46f5e503ff9e81b1328c371920f5a84520449952949270af3b55a7acebd2d0ee/68747470733a2f2f696d672e69636f6e73382e636f6d2f646f6f646c652f34302f3030303030302f6c696e6b6564696e2d2d76322e706e67" alt=logo-linkedin/></a>
 <a href="https://www.instagram.com.br/quel.rios"><img width=31px src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" alt=logo-linkedin/></a>
 <br>
-<a href="mailto:raquel.riosferreira@gmail.com"> :mailbox_with_mail: </a> e-mail: raquel.riosferreira@gmail.com  <img src="https://media.giphy.com/media/JmUBRJTqnCZ8F57oQr/giphy.gif" alt="bear" width="60">
+<a href="mailto:raquel.riosferreira@gmail.com"> :mailbox_with_mail: </a> e-mail: raquel.riosferreira@gmail.com
 
 ![snake gif](https://github.com/raquelferreira1/raquelferreira1/blob/output/github-contribution-grid-snake.svg)
