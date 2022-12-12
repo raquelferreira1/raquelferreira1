@@ -30,4 +30,6 @@ Em breve:
 <a href="mailto:raquel.riosferreira@gmail.com"> :mailbox_with_mail: </a> raquel.riosferreira@gmail.com
  
 <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=350&size=20&pause=1000&color=FF69B4&background=11111100&right=true&vCenter=true&width=1000&lines=Obrigado(a)+por+estar+aqui!+💜" alt="Typing SVG" /></a> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=350&size=18&pause=1000&color=FF69B4&background=11111100&right=true&vCenter=true&width=1000&lines=Obrigado(a)+por+estar+aqui!+💜" alt="Typing SVG" /></a> 
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8CDBFC&height=110&section=footer" />
