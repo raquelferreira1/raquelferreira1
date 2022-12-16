@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8CDBFC&height=110&section=&animation" />
 
-<h3><b> Oi oi <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px" >	</h3>
+<h3><b> Olá! <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px" >	</h3>
 
 <p> Sou Raquel Ferreira, Programadora Front-End, apaixonada por tecnologia. 
 <br> Estou amando cada nova descoberta e sempre buscando aprender mais. :purple_heart:
