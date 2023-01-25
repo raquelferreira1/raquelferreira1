@@ -38,6 +38,5 @@ Em breve:
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=350&size=18&pause=1000&color=9D52B9&background=11111100&right=true&vCenter=true&width=1000&lines=Obrigado(a)+por+estar+aqui!" alt="Typing SVG"/></a> 
 
-<img  width=68px src="https://camo.githubusercontent.com/a9133a87bdc55e6f1844d5715d8542c80a8f694c19d77a00058d3f7dc452dafb/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f78417148554c3231704d4865302f67697068792e676966" alt=cat>
- 
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8CDBFC&height=110&section=footer" />
