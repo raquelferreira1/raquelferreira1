@@ -35,6 +35,22 @@
 <a href="mailto:raquel.riosferreira@gmail.com"><img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/microsoftoutlook.svg" alt="outlook-icon"/></a>
 <a href="https://www.instagram.com.br/quel.rios"><img width=31px src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" alt=logo-linkedin/></a> 
 
+<br>
+<h3> Sobre Mim: </h3>
+
+<p><b>
+♡ Amo filmes, séries e música 🎨
+
+♡ Gosto de codar ouvindo lo-fi 🎶
+
+♡ Atualmente em transição de carreira 🎯
+
+♡ Estou aprendendo React
+
+♡ Fico feliz em ajudar e tirar dúvidas 
+</b></p>
+
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="62px">
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8CDBFC&height=110&section=footer" />
