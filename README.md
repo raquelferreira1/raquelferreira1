@@ -47,7 +47,6 @@
 
 ♡ Estou aprendendo React
 
-♡ Fico feliz em ajudar e tirar dúvidas 
 </b></p>
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="62px">
