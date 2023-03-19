@@ -1,12 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8CDBFC&height=110&section=&animation" />
-
-
 # Olá! Sou Raquel Ferreira <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="25px">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=350&size=18&pause=1000&color=800080&background=11111100&right=true&vCenter=true&width=1000&lines=Desenvolvedora+Web+Front-End" alt="Typing SVG"/></a> 
-
-<img align="right" width=140px alt="urso" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif"/>
-<img width=55px src="https://github.com/raquelferreira1/gif/blob/master/cog2.gif?raw=true" alt=gif-cog> 
 
 <h3> Tecnologias: </h3>  
 
@@ -36,20 +30,18 @@
 <a href="https://www.instagram.com.br/quel.rios"><img width=31px src="https://camo.githubusercontent.com/c80f9763ed06d4ab9fbcc1a74b8b74cd95e4c7f82d3f1f70233994f236a0faeb/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f696e7374616772616d2e737667" alt=logo-linkedin/></a> 
 
 <br>
+
+<img width=55px src="https://github.com/raquelferreira1/gif/blob/master/cog2.gif?raw=true" alt=gif-cog> 
+
 <h3> Sobre Mim: </h3>
 
 <p><b>
-♡ Amo filmes, séries e música 🎨
+· Amo filmes, séries e música 🎨
 
-♡ Gosto de codar ouvindo lo-fi 🎶
+· Atualmente em transição de carreira 🎯
 
-♡ Atualmente em transição de carreira 🎯
-
-♡ Estou aprendendo React
+· Estou aprendendo React
 
 </b></p>
 
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="62px">
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8CDBFC&height=110&section=footer" />
+<img src="https://media.licdn.com/dms/image/C4D22AQFbj0Fgf4dQng/feedshare-shrink_800/0/1679166158522?e=1681948800&v=beta&t=N75s6XTFzQdbqsC5Xj3fnAp55WTAO9mhUlTNTZoXx_Q">
