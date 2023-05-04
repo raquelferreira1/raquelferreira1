@@ -33,16 +33,4 @@
 <a href="mailto:raquel.riosferreira@gmail.com"><img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/microsoftoutlook.svg" alt="outlook-icon"/></a>
 
 <br>
-<img align="right" width=450px src="https://media.licdn.com/dms/image/C4D22AQFbj0Fgf4dQng/feedshare-shrink_800/0/1679166158522?e=1681948800&v=beta&t=N75s6XTFzQdbqsC5Xj3fnAp55WTAO9mhUlTNTZoXx_Q">
-
-<h3> Sobre Mim: </h3>
-
-<p><b>
-· Amo filmes, séries e música 🎨
-
-· Atualmente em transição de carreira 🎯
-
-· Estou aprendendo React
-</p>
-<br>
 <img width=55px src="https://github.com/raquelferreira1/gif/blob/master/cog2.gif?raw=true" alt=gif-cog> 
