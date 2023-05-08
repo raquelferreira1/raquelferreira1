@@ -35,4 +35,4 @@
 <a href="mailto:raquel.riosferreira@gmail.com"><img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/microsoftoutlook.svg" alt="outlook-icon"/></a>
 
 <br>
-<img width=80px src="https://github.com/raquelferreira1/gif/blob/master/cog2.gif?raw=true" alt=gif-cog> 
+<img width=78px src="https://github.com/raquelferreira1/gif/blob/master/cog2.gif?raw=true" alt=gif-cog> 
