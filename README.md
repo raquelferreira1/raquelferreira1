@@ -1,4 +1,6 @@
-# Olá! <br>Sou a Raquel
+# Olá! <br> Sou a Raquel 
+
+<img width=78px src="https://github.com/raquelferreira1/gif/blob/master/cog2.gif?raw=true" alt=gif-cog> 
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=350&size=18&pause=1000&color=800080&background=11111100&right=true&vCenter=true&width=1000&lines=Desenvolvedora+Web+Front-End" alt="Typing SVG"/></a>
 
@@ -31,6 +33,3 @@
  
 <a href="https://www.linkedin.com/in/raquel-ferreiraa/"><img width=33px  src="https://camo.githubusercontent.com/46f5e503ff9e81b1328c371920f5a84520449952949270af3b55a7acebd2d0ee/68747470733a2f2f696d672e69636f6e73382e636f6d2f646f6f646c652f34302f3030303030302f6c696e6b6564696e2d2d76322e706e67" alt=logo-linkedin/></a>
 <a href="mailto:raquel.riosferreira@gmail.com"><img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@7.20.0/icons/microsoftoutlook.svg" alt="outlook-icon"/></a>
-
-<br>
-<img width=78px src="https://github.com/raquelferreira1/gif/blob/master/cog2.gif?raw=true" alt=gif-cog> 
